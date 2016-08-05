@@ -4,13 +4,14 @@
 
 import angular from 'angular';
 import uirouter from 'angular-ui-router';
-import ngArea from 'angular-aria';
-import ngAnimate from 'angular-animate';
-import ngMaterial from 'angular-material';
+import ngMaterial from './lib/ng-material'
+import routing from './config'
 
 import '../node_modules/angular-material/angular-material.css';
 
 var module = angular.module('ng-comps', [ ngMaterial, uirouter ]);
+
+module.config(routing);
 
 module.controller('ctrl', () => {
     console.log('hello ctrl');
