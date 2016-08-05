@@ -1,0 +1,28 @@
+{
+  "name": "ng-comps",
+  "version": "1.0.0",
+  "description": "components-demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline --progress --hot"
+  },
+  "author": "mjunaidsalaat",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.13.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.1",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-ui-router": "^0.3.1"
+  }
+}
