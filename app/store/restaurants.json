@@ -1,0 +1,47 @@
+[
+  {
+    "uuid": "7ce29e0a-83a9-46fb-bdb6-ebdce4883928",
+    "url": "/karachi/1-pound-fish-defense",
+    "name": "1 Pound Fish",
+    "rating": 3,
+    "type": "BBQ, Seafood",
+    "createdAt": "2015-06-05T21:09:47.000Z",
+    "updatedAt": "2015-06-05T21:09:47.000Z"
+  },
+  {
+    "uuid": "38588920-f109-4357-9dd5-55c200f3804d",
+    "url": "/karachi/14th-street-pizza",
+    "name": "14th Street Pizza, Karachi",
+    "rating": 4,
+    "type": "Pizza",
+    "createdAt": "2015-06-05T21:09:47.000Z",
+    "updatedAt": "2015-06-05T21:09:47.000Z"
+  },
+  {
+    "uuid": "7a5446ce-bcbb-43c2-83ef-e669e1705020",
+    "url": "/karachi/MC-Donald",
+    "name": "MC Donalds",
+    "rating": 4,
+    "type": "fast",
+    "createdAt": "2015-06-05T21:09:47.000Z",
+    "updatedAt": "2015-06-05T21:09:47.000Z"
+  },
+  {
+    "uuid": "99a0cbe3-2f48-47ce-9f65-9a7b2f61ebc4",
+    "url": "/karachi/ginsoy-extreme-chinese-khayaban-e-shahbaz",
+    "name": "Ginsoy - Extreme Chinese",
+    "rating": 4,
+    "type": "Chinese",
+    "createdAt": "2015-06-05T21:09:47.000Z",
+    "updatedAt": "2015-06-05T21:09:47.000Z"
+  },
+  {
+    "uuid": "caa19815-5506-4168-a1c4-a68d1b05f7d2",
+    "url": "/karachi/pizza-hut",
+    "name": "Pizza Hut",
+    "rating": 3,
+    "type": "Chinese",
+    "createdAt": "2015-06-05T21:09:46.000Z",
+    "updatedAt": "2015-06-05T21:09:46.000Z"
+  }
+]
