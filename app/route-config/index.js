@@ -1,5 +1,5 @@
 /**
- * Created by junaid on 8/5/16.
+ * Created by mJunaidSalaat on 8/5/16.
  */
 
 routing.$inject = ['$stateProvider', '$urlRouterProvider', '$locationProvider'];

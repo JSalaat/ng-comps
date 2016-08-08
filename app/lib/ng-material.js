@@ -1,5 +1,5 @@
 /**
- * Created by junaid on 8/5/16.
+ * Created by mJunaidSalaat on 8/5/16.
  */
 
 import ngArea from 'angular-aria';
