@@ -8,9 +8,5 @@ export default class AppController {
         console.log(this.name);
     }
 
-    changeName() {
-        this.name = '';
-    }
-
 
 }
